@@ -1,24 +1,11 @@
-# README
+# Project: Part of Getting Your Feet Wet
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the project realised through the **Chapter 1 of ruby on rails tutorials** books. Here is the link https://github.com/maelfosso/microverse_ror_hello_app/tree/dev  
 
-Things you may want to cover:
+## Link of the live version 
 
-* Ruby version
+The live version is available here https://murmuring-dusk-65344.herokuapp.com/
 
-* System dependencies
+## Developper
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Project done by https://github.com/maelfosso
